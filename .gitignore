@@ -3,5 +3,5 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 
-.env
-*.env
+# .env
+# *.env
